@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "however-applies.gl.joinmc.link",
-          "assigned_srv": "however-applies.gl.joinmc.link",
+          "assigned_domain": "poker-terms.gl.joinmc.link",
+          "assigned_srv": "poker-terms.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "4913a4b1-b742-421c-bce6-674731d51440",
+          "id": "cae1168f-3a30-4518-9a0b-bfdaa74f2a41",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 53245,
-          "port_start": 53244,
+          "port_end": 53425,
+          "port_start": 53424,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-01T02:52:05.517452Z",
+      "created_at": "2024-07-01T04:48:42.081559Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "6eff0494-c9b8-4a58-a171-e8db2fb91700",
+      "id": "e641b862-109c-4919-a1a5-706508ca986d",
       "name": "Minecraft Java",
       "origin": {
         "data": {
